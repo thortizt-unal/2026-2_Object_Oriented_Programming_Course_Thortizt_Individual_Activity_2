@@ -16,7 +16,7 @@
 
 <br>
 
-# ACTIVIDAD 1
+# ACTIVIDAD 2
 
 ### EJERCICIOS DE PROGRAMACIÓN ORIENTADA A OBJETOS
 
@@ -32,7 +32,7 @@
 | **Programa** | Estadística |
 | **Docente** | Walter Hugo Arboleda Mazo |
 | **Periodo** | 2026-2S |
-| **Fecha de entrega** | 17 de septiembre de 2026 |
+| **Fecha de entrega** | 8 de septiembre de 2026 |
 
 </div>
 
@@ -42,7 +42,7 @@
 
 <p align="center">
 Este repositorio contiene los ejercicios correspondientes al
-<b>Taller Individual 1 de Programación Orientada a Objetos</b>,
+<b>Taller Individual 2 de Programación Orientada a Objetos</b>,
 desarrollados en Python utilizando clases, atributos, métodos e instancias.
 </p>
 
