@@ -47,7 +47,7 @@
 
 <p align="center">
 Este repositorio contiene los ejercicios de la <b>Actividad 2</b> de Programación Orientada a Objetos,<br>
-tomados del libro <i>Ejercicios de programación orientada a objetos con Java / Python y UML</i> de Leonardo Bermón Angarita,<br>
+tomados del libro <i>Ejercicios de programación orientada a objetos con Java y UML</i> de Leonardo Bermón Angarita,<br>
 y desarrollados en <b>Python</b> usando clases, atributos, métodos, enumerados e instancias.
 </p>
 
@@ -59,33 +59,16 @@ y desarrollados en <b>Python</b> usando clases, atributos, métodos, enumerados 
 
 | N.º | Ejercicio | Tema | Código |
 |:---:|:---|:---|:---:|
-| 1 | **Persona** | Definición de clases | [`ejercicio_2_1.py`](ejercicio_2_1.py) |
-| 2 | **Planeta** | Definición de atributos de una clase | [`ejercicio_2_2.py`](ejercicio_2_2.py) |
-| 3 | **Automóvil** | Estado de un objeto | [`ejercicio_2_3.py`](ejercicio_2_3.py) |
-| 4 | **Figuras geométricas** | Métodos con y sin valores de retorno | [`ejercicio_2_4.py`](ejercicio_2_4.py) |
-| 5 | **Cuenta bancaria** | Métodos con parámetros | [`ejercicio_2_5.py`](ejercicio_2_5.py) |
+| 1 | **Persona** | Definición de clases | [`Ejercicio 2.1.py`](Ejercicios/Ejercicio%202.1.py) |
+| 2 | **Planeta** | Definición de atributos de una clase | [`Ejercicio 2.2.py`](Ejercicios/Ejercicio%202.2.py) |
+| 3 | **Automóvil** | Estado de un objeto | [`Ejercicio 2.3.py`](Ejercicios/Ejercicio%202.3.py) |
+| 4 | **Figuras geométricas** | Métodos con y sin valores de retorno | [`Ejercicio 2.4.py`](Ejercicios/Ejercicio%202.4.py) |
+| 5 | **Cuenta bancaria** | Métodos con parámetros | [`Ejercicio 2.5.py`](Ejercicios/Ejercicio%202.5.py) |
 
 </div>
-
----
-
-<h2 align="center">▶️ Cómo ejecutar</h2>
-
-Cada ejercicio es un archivo independiente. Desde la terminal, dentro de la carpeta del repositorio:
-
-```bash
-python ejercicio_2_1.py
-```
-
-Cambia el nombre del archivo para ejecutar cada uno de los ejercicios.
-
----
 
 <div align="center">
 
 **Universidad Nacional de Colombia · Sede Medellín · 2026**
 
 </div>
-
----
-
